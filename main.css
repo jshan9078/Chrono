@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+
+
+:root {
+    background: linear-gradient(135deg, #6a5bf3, black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    --font-major: "Major Mono Display";
+    --custom-scrollbar-thumb-color: rgb(231, 214, 241);
+    --color-primary: blueviolet;
+  }
+
+body {
+    background: linear-gradient(135deg, #6a5bf3, black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: var(--font-major);
+    font-weight:900;
+    text-align: center;
+    align-items: center;
+    --color-primary: blueviolet;
+  }
+
+.css-7g81c7{
+    background: linear-gradient(135deg, #6a5bf3, black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    --color-primary: blueviolet;
+}
+
+
+
+
+#course-text{
+  color:rgb(231, 214, 241);
+  margin-top:1vw;
+
+}
+
+#title{
+  font-size:10vw;
+  font-family: var(--font-major);
+  margin-bottom:-2vw;
+}
+
+#upload-button{
+  margin-top:1.5vw;
+  border-color:blueviolet;
+  color:rgb(231, 214, 241);
+  margin-bottom:1.5vw;
+}
+
+#upload-button:hover{
+  background-color:rgb(231, 214, 241);
+  color:blueviolet;
+}
+
+#add-button{
+  margin-top:1.5vw;
+  border-color:blueviolet;
+  color:rgb(231, 214, 241);
+  margin-bottom:1.5vw;
+}
+
+#add-button:hover{
+  background-color:rgb(231, 214, 241);
+  color:blueviolet;
+}

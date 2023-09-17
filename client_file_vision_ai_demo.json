@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lustrous-setup-394408",
+  "private_key_id": "8d74f5ae5478bc1b79207b1c94c207b0a8e42ddf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKTJVtqWFYeuY/\n0VyFZP5WY4b1+iwHj+rWVz30jM9N9wIzQw4ix+Vco1yj4aUSi516QAOjUI7bum0G\nKoQmpVWQ/DwQzeKg24bVBtJU9qPiQhLddLtCW4JnF5nYPUbiGbXLhlu+HRTaY9m3\nzvaIKvVJHk1HHOacA40Ldy5n0lnwJ064Sj6Hi2HuA2ldwFCiRlREvK/5awhu+S99\nqJ1U6Huvy5grn+144UjfmV2skD2j0kN5pyZ7fvM8bxEhiHvET3d2ARTnKZJ2cXv/\nGfZQ2EFWoNf60mBFTpwnj/z4D0AI1pJGLC7w9iWG9FUlQ1LOq3YtH0RPcflMXSYi\nx+WSJo4hAgMBAAECggEAZRCPkoKNTGvRvc41X7sNyVDdquN5valrk/tvy03Rf0zI\nv51fYYbmEjrW3FStaC9x1BJI/v0O8b0YHH1/GeN9dPpec7K35s7ldGV9DM9PHokN\n7a8UolkfM6u5wysRz4EyrmQIT1kuAtDhgw+VYH+9nPLTfpR0rTqk6zZ2a43OOsg0\nGQ92YP6NsLw0ZnhHZ6WbVUQF8Clbr3hNaLsSKHpBx4x+KlOnpQyOaG2kOdIcK2/o\nq9wk/E1Fk/u3ac82wuKuf2jA1eyWs7dzM/rZnjA1h58U7rLPSD9dVx/lqGxHIUdA\n2dU3NgUXInzxDsIvEjAv4Vbgud/RKpS68BSqpWzD1QKBgQD5WuGyqx8DvH4plnT0\nUeGJ0UrYB2NI/6pcchnblbzjgWDmOV/PXhqOrz/wSwdUmbpQp4XTfMufIdRlfjOV\ngV/MQIx8s/9v8NrRk0EQflvac5ks1ziMKqvENyGRsA/6FABxp9n+Fj7hacxlByo9\nguT8iK3CstmroW2vWhHe7mhjzwKBgQDPsK791415zsSg4G1NuXbuUUPr2dwOhlW0\nvRk/LohBNnXY3tJhA3tpY1YVXguAmvhZ8FgQ2dsKuJ1pbFAKGEvJ374DMmEe3jUN\n/f2eX1Z1cnCyL4bcJDeSIrqNxqIdMyCADEdAdYlSHPO+BCEfVSXvpEf0t17deHkG\nw3W1nng7DwKBgAlDwi0ERKO75igfafsF685WE2TRaXP149uJdcJ93sXJMdN8AD5R\nLcVtZ3/DGeOfzpdekg9YjKw98olO1hXQ98E8CLw9Z9k95rNwuDMnrrwAHYnX+Ubj\n8vvYXIvwMbfF9HpElUnmg7GWX7zFNmGQsndbkLEyOfoxhkTEoPNaglBrAoGAeVSQ\nhj68qaI/gHRbpoJolkTnVwtI4TtdKl8mNqDqfJ5iLjXN1VsBZ8nealEsiw79cx1T\ndVSwAA1l+EaMY7lZ3S9Wg+uUjUHm4Ku21CSCD86xQ4c8U7LcvASJ03VtE33gyK1j\nmqaPeGbthd5Hs1Q8+0iPuMi/JMbSfT8GrvlK58UCgYEArmrjRJ3Js4cnht7mncNw\nDdTlhYcI1pNGh6HjHPu6XszC6GEhjefi25NmEdmIVBlE6mVGH51A+ZTWC74K0P2L\nEnrJ2cceiiItAk5+sV5O7Og63REKm0WAlny2wap0ZvusCO+EJuO9/eykiViutb49\nuP8zLTgO3knXcCBVnii6jvY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-vision-ai-api-demo@lustrous-setup-394408.iam.gserviceaccount.com",
+  "client_id": "102291336880646939121",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-vision-ai-api-demo%40lustrous-setup-394408.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
