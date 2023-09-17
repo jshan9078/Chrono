@@ -3,4 +3,5 @@
 ./Lib
 ./Scripts
 ./share
-.assignments.csv
+assignments.csv
+client_file_vision_ai_demo.json
