@@ -1,1 +1,5 @@
 .env
+.Include
+.Lib
+.Scripts
+.share
