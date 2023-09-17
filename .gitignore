@@ -1,5 +1,6 @@
 .env
-.Include
-.Lib
-.Scripts
-.share
+./Include
+./Lib
+./Scripts
+./share
+.assignments.csv
